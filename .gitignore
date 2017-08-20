@@ -1,0 +1,7 @@
+.ipynb_checkpoints
+data/
+mnist/
+cifar10_tutorial.ipynb
+neural_networks_tutorial.ipynb
+.DS_Store
+
